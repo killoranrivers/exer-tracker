@@ -1,0 +1,2 @@
+- Add Heroku URL to README
+- Update README with technologies used
